@@ -14,8 +14,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL:
-- Live Site URL: https://fabulous-dango-ae26bf.netlify.app/
+- Solution URL:https://github.com/nwakego98/3column-preview-card.git
+- Live Site URL: 
 
 
 ### Built with
